@@ -1,3 +1,3 @@
 # LibraryApi
 
-  criando um crud em flask 
+  criando um crud usando flask 
